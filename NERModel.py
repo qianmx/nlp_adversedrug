@@ -59,7 +59,6 @@ class NERModel:
 
         url_base = os.getcwd() + '/' + folder_path + '/'
         train_text_ls = glob.glob(url_base + '*.xml')
-        train_text_ls = train_text_ls[:2]  # for test, delete
 
         for doc in train_text_ls:
             train_x, train_y = self.parse_train_xml(doc)
@@ -78,13 +77,9 @@ class NERModel:
             for section, tuples in train_y_dir.iteritems():
                 tokens = tokenize(train_x[section])
                 trainer_instance = ner_training_instance(tokens)
-                i = 0 # for test, delete
-                for t in tuples:  # for test
-                    i += 1  # for test
-                    if i < 3:  # for test
+                for t in tuples:
                         try:
                             trainer_instance.add_entity(xrange(int(t[0]), int(t[0]) + int(t[1])), t[2])
-                            print (xrange(int(t[0]), int(t[0]) + int(t[1])), t[2]) # for test
                         except:
                             continue
                 self.trainer.add(trainer_instance)
