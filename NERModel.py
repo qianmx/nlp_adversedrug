@@ -4,6 +4,7 @@ from mitie import *
 
 
 class NERModel:
+
     def __init__(self):
         '''
         initiate class object
@@ -50,15 +51,16 @@ class NERModel:
 
         return X
 
-    def fit(self, folder_path):
+    def fit(self, train_folder_path):
         '''
         # train ner model on training files
 
         :param folder:  dictionary of training files
         '''
 
-        url_base = os.getcwd() + '/' + folder_path + '/'
+        url_base = os.getcwd() + '/' + train_folder_path + '/'
         train_text_ls = glob.glob(url_base + '*.xml')
+        train_text_ls = train_text_ls[:10]  # for test, delete
 
         for doc in train_text_ls:
             train_x, train_y = self.parse_train_xml(doc)
@@ -78,15 +80,44 @@ class NERModel:
                 tokens = tokenize(train_x[section])
                 trainer_instance = ner_training_instance(tokens)
                 for t in tuples:
-                        try:
-                            trainer_instance.add_entity(xrange(int(t[0]), int(t[0]) + int(t[1])), t[2])
-                        except:
-                            continue
+                    try:
+                        trainer_instance.add_entity(xrange(int(t[0]), int(t[0]) + int(t[1])), t[2])
+                    except:
+                        continue
                 self.trainer.add(trainer_instance)
 
             self.ner = self.trainer.train()
+            self.ner.save_to_disk("custom_ner_model.dat") # for test, delete
+
+    def predict(self, test_folder_path):
+        '''
+        # fit model on test dataset
+
+        :param model:  trained model
+        '''
+        print "Model trained with tags:", self.ner.get_possible_ner_tags()
+
+        url_base = os.getcwd() + '/' + test_folder_path + '/'
+        test_text_ls = glob.glob(url_base + '*.xml')
+        test_text_ls = test_text_ls[:2]  # for test, delete
+
+        for doc in test_text_ls:
+            test_x = self.parse_test_xml(doc)
+            for s in test_x:
+                # Let's get a test instance
+                tokens = tokenize(test_x[s])
+                entities = self.ner.extract_entities(tokens)
+
+                # Print the test instance and all entities found.
+                print 'Test instance:', ' '.join(tokens)
+                for e in entities:
+                    range = e[0]
+                    tag = e[1]
+                    entity_text = ' '.join(tokens[i] for i in range)
+                    print s + '  ' + tag + ': ' + entity_text
 
 
 if __name__=='__main__':
     ner = NERModel()
     ner.fit("train_xml")
+    ner.predict("unannotated_xml")
