@@ -10,9 +10,9 @@ class DataHandler():
 
 	def __init__(self, datapath):
 		# Default values
-		self.LEN_NAMED_CLASSES = 5 # 4 names and 1 null class
+		self.LEN_NAMED_CLASSES = 8 # 7 names and 1 null class
 		self.NULL_CLASS = "O"
-		self.LEN_WORD_VECTORS = 200
+		self.LEN_WORD_VECTORS = 300 # increased from 200 to 300
 
 		self.tags = []
 		# string tags mapped to int and one hot vectors
@@ -33,9 +33,9 @@ class DataHandler():
 
 		with open(datapath, 'r') as f:
 			for l in f:
-				line = l.strip().split()
-				if line:
-					word, named_tag = line[0], line[3]
+				line = l.strip().split(',')
+				if line[0] != '':
+					word, named_tag = line[0], line[1]
 					if named_tag != self.NULL_CLASS:
 						named_tag = self.process_tag(named_tag)
 
