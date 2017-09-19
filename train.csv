@@ -1019,7 +1019,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -1078,7 +1078,7 @@ ADCETRIS,O
 9,O
 6,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -3305,7 +3305,7 @@ products,O
 may,O
 be,O
 misleading,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -4128,7 +4128,7 @@ treatments,O
 are,O
 readily,O
 available,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -4428,7 +4428,7 @@ and,O
 Precautions,O
 5,O
 1,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -6100,7 +6100,7 @@ Specific,O
 Populations,O
 8,O
 6,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -10333,7 +10333,7 @@ cholelithiasis,AdverseReaction
 arterial thrombotic events,AdverseReaction
 and,O
 reflex sympathetic dystrophy,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -10851,7 +10851,7 @@ treated,O
 as,O
 clinically,O
 indicated,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -11322,7 +11322,7 @@ interval,O
 21,O
 6,O
 28,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -11541,7 +11541,7 @@ and,O
 Administration,O
 2,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -11808,7 +11808,7 @@ pruritis,AdverseReaction
 urticaria,AdverseReaction
 and,O
 flushing,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -13834,7 +13834,7 @@ should,O
 be,O
 clinically,O
 evaluated,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -14719,7 +14719,7 @@ Caucasian,O
 patients,O
 were,O
 observed,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -15713,7 +15713,7 @@ is,O
 not,O
 well,O
 controlled,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -15922,7 +15922,7 @@ asthma,O
 4,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -16831,7 +16831,7 @@ pruritus,AdverseReaction
 rash,AdverseReaction
 and,O
 dizziness,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -17233,7 +17233,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -17806,7 +17806,7 @@ of,O
 Beleodaq,O
 treated,O
 patients,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -19208,7 +19208,7 @@ therapies,O
 or,O
 intravenous,O
 cyclophosphamide,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -20071,7 +20071,7 @@ and,O
 Precautions,O
 5,O
 4,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -20251,7 +20251,7 @@ topical,O
 ophthalmic,O
 use,O
 only,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -20449,7 +20449,7 @@ tongue,AdverseReaction
 and,O
 or,O
 throat,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -20629,7 +20629,7 @@ of,O
 therapy,O
 with,O
 Besivance,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -20784,7 +20784,7 @@ www,O
 fda,O
 gov,O
 medwatch,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -21519,7 +21519,7 @@ Administration,O
 and,O
 2,O
 4,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -21649,7 +21649,7 @@ recommended,O
 3,O
 5,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -22571,7 +22571,7 @@ products,O
 may,O
 be,O
 misleading,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -23537,7 +23537,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -24629,7 +24629,7 @@ than,O
 erythema multiforme,AdverseReaction
 exfoliative rash,AdverseReaction
 drug eruption,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -27337,7 +27337,7 @@ Specific,O
 Populations,O
 8,O
 4,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -27802,7 +27802,7 @@ ICS,O
 2,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -29563,7 +29563,7 @@ Tremor,AdverseReaction
 Psychiatric,O
 Disorders,O
 Nervousness,AdverseReaction
-,
+""
 EXCERPT,O
 Hyperammonemia,AdverseReaction
 Monitor,O
@@ -29812,7 +29812,7 @@ catabolism,O
 and,O
 nitrogen,O
 turnover,O
-,
+""
 EXCERPT,O
 The,O
 most,O
@@ -30062,7 +30062,7 @@ disorders,O
 Rash,AdverseReaction
 2,O
 9,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -30281,7 +30281,7 @@ Clinical,O
 Pharmacology,O
 12,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -30740,7 +30740,7 @@ Trials,O
 1,O
 and,O
 2,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -31088,7 +31088,7 @@ and,O
 Administration,O
 2,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -31154,7 +31154,7 @@ www,O
 fda,O
 gov,O
 medwatch,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -33478,7 +33478,7 @@ not,O
 been,O
 formally,O
 evaluated,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -33897,7 +33897,7 @@ pediatric,O
 patients,O
 8,O
 4,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -36083,7 +36083,7 @@ Immune,O
 System,O
 Disorders,O
 sarcoidosis,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -36421,7 +36421,7 @@ hypertension,O
 associated,O
 with,O
 pheochromocytoma,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -37106,7 +37106,7 @@ possible,Factor
 pulmonary shunting,AdverseReaction
 and,O
 reflex tachycardia,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -38047,7 +38047,7 @@ dormant,O
 in,O
 the,O
 liver,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -38967,7 +38967,7 @@ bullous eruption,AdverseReaction
 have,O
 been,O
 reported,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -39707,7 +39707,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -39864,7 +39864,7 @@ severe,O
 hemorrhage,O
 5,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -40941,7 +40941,7 @@ Diastolic,O
 mmHg,O
 0,O
 0,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -41393,7 +41393,7 @@ of,O
 drug,O
 resistant,O
 bacteria,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -41947,7 +41947,7 @@ ALT elevation,AdverseReaction
 greater,O
 than,O
 10 times ULN,Severity
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -42174,7 +42174,7 @@ risk,O
 for,O
 thyroid,O
 neoplasia,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -42428,7 +42428,7 @@ has,O
 also,O
 been,O
 reported,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -42617,7 +42617,7 @@ of,O
 drug,O
 resistant,O
 bacteria,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -42981,7 +42981,7 @@ pruritus,AdverseReaction
 have,O
 been,O
 reported,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -43626,7 +43626,7 @@ Nonclinical,O
 Toxicology,O
 13,O
 2,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -43907,7 +43907,7 @@ laboratory,O
 testing,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -44451,7 +44451,7 @@ DOTAREM,O
 Vascular,O
 Disorders,O
 superficial phlebitis,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -46186,7 +46186,7 @@ LDL,AdverseReaction
 cholesterol concentrations concentrations,AdverseReaction
 increased triglyceride levels,AdverseReaction
 Impaired glucose tolerance,AdverseReaction
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -48330,7 +48330,7 @@ LAB,O
 0,O
 October,O
 2013,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -48833,7 +48833,7 @@ and,O
 Precautions,O
 5,O
 2,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -49437,7 +49437,7 @@ following,O
 administration,O
 of,O
 DUREZOL,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -49629,7 +49629,7 @@ iridocyclitis,AdverseReaction
 photophobia,AdverseReaction
 and,O
 reduced visual acuity,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -50459,7 +50459,7 @@ only,O
 for,O
 intramuscular,O
 injection,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -50701,7 +50701,7 @@ them,O
 to,O
 these,O
 symptoms,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -52507,7 +52507,7 @@ to,O
 experience,O
 clinical,O
 benefit,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -52838,7 +52838,7 @@ results,O
 may,O
 be,O
 expected,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -52903,7 +52903,7 @@ and,O
 death to the developing fetus the developing fetus,AdverseReaction
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -53407,7 +53407,7 @@ Muscle spasms,AdverseReaction
 Rash,AdverseReaction
 Pruritus,AdverseReaction
 Angioedema,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -54043,7 +54043,7 @@ thrombolysis,O
 or,O
 pulmonary,O
 embolectomy,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -54420,7 +54420,7 @@ spinal,O
 procedures,O
 5,O
 3,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -56774,7 +56774,7 @@ site,O
 conditions,O
 injection site hematoma,AdverseReaction
 vessel puncture site hematoma,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -57552,7 +57552,7 @@ use,O
 in,O
 these,O
 patients,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -57765,7 +57765,7 @@ Program,O
 1,O
 5,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -58063,7 +58063,7 @@ of,O
 study,O
 medication,O
 treatment,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -58846,7 +58846,7 @@ MRI,O
 set,O
 for,O
 diagnosis,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -59124,7 +59124,7 @@ laboratory,O
 testing,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -59593,7 +59593,7 @@ Precautions,O
 2,O
 Tachycardia,AdverseReaction
 Restlessness,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -59907,7 +59907,7 @@ ERWINAZE,O
 may,O
 be,O
 resumed,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -60937,7 +60937,7 @@ products,O
 may,O
 be,O
 misleading,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -61282,7 +61282,7 @@ of,O
 the,O
 RVO,O
 studies,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -62119,7 +62119,7 @@ with,O
 or,O
 without,O
 immunoreactivity,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -65301,7 +65301,7 @@ not,O
 affect,O
 them,O
 adversely,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -65560,7 +65560,7 @@ related,O
 psychosis,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -67129,7 +67129,7 @@ relationship,O
 to,O
 drug,O
 exposure,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -67727,7 +67727,7 @@ any,O
 other,O
 antidiabetic,O
 drug,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -70143,7 +70143,7 @@ FARXIGA,O
 mg,O
 groups,O
 respectively,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -70643,7 +70643,7 @@ event,O
 of,O
 a,O
 deficiency,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -70819,7 +70819,7 @@ of,O
 infection,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -71350,7 +71350,7 @@ Vascular,O
 disorders,O
 hypotension,AdverseReaction
 hypertension,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -71409,7 +71409,7 @@ to,O
 treatment,O
 with,O
 FIRAZYR,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -71997,7 +71997,7 @@ relationship,O
 to,O
 drug,O
 exposure,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -72109,7 +72109,7 @@ may,O
 worsen,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -72539,7 +72539,7 @@ www,O
 fda,O
 gov,O
 medwatch,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -73210,7 +73210,7 @@ Clinical,O
 Studies,O
 14,O
 2,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -73486,7 +73486,7 @@ laboratory,O
 testing,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -73914,7 +73914,7 @@ and,O
 Precautions,O
 5,O
 2,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -76311,7 +76311,7 @@ see,O
 Drug,O
 Interactions,O
 7,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -76981,7 +76981,7 @@ to,O
 GILENYA,O
 remains,O
 uncertain,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -77894,7 +77894,7 @@ Populations,O
 8,O
 1and8,O
 6,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -78763,7 +78763,7 @@ to,O
 drug,O
 exposure,O
 Pancreatitis,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -79141,7 +79141,7 @@ approved,O
 cannot,O
 be,O
 excluded,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -79659,7 +79659,7 @@ not,O
 been,O
 adequately,O
 determined,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -80191,7 +80191,7 @@ congenital,O
 long,O
 QT,O
 syndrome,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -81162,7 +81162,7 @@ Subcutaneous,O
 Tissue,O
 Disorders,O
 pruritus,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -82755,7 +82755,7 @@ not,O
 affected,O
 by,O
 treatment,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -83800,7 +83800,7 @@ breast enlargement,AdverseReaction
 gynecomastia,AdverseReaction
 and,O
 elevated creatine kinase,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -84598,7 +84598,7 @@ no definitive conclusion,Factor
 can,O
 be,O
 made,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -86027,7 +86027,7 @@ ILARIS,O
 without,Negation
 concomitant,O
 elevations of transaminases,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -86566,7 +86566,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -88117,7 +88117,7 @@ angioedema,AdverseReaction
 have,O
 been,O
 reported,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -89849,7 +89849,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -90623,7 +90623,7 @@ versus,O
 2,O
 for,O
 sorafenib,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -91003,7 +91003,7 @@ after,O
 initiation,O
 of,O
 treatment,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -92707,7 +92707,7 @@ and,O
 Precautions,O
 5,O
 1,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -93344,7 +93344,7 @@ any,O
 other,O
 antidiabetic,O
 drug,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -96519,7 +96519,7 @@ INVOKANA,O
 mg,O
 was,O
 0,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -96970,7 +96970,7 @@ any,O
 other,O
 antidiabetic,O
 drug,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -98728,7 +98728,7 @@ JARDIANCE,O
 25,O
 mg,O
 respectively,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -99816,7 +99816,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -100030,7 +100030,7 @@ and,O
 Precautions,O
 5,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -101130,7 +101130,7 @@ made,O
 Gastrointestinal,O
 Gastritis,AdverseReaction
 intestinal obstruction,AdverseReaction
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -101330,7 +101330,7 @@ Application site pain,AdverseReaction
 1,O
 0,O
 2,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -101539,7 +101539,7 @@ KALBITOR,O
 see,O
 Contraindications,O
 4,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -101716,7 +101716,7 @@ and,O
 Adverse,O
 Reactions,O
 6,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -102456,7 +102456,7 @@ relationship,O
 with,O
 drug,O
 exposure,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -102861,7 +102861,7 @@ patients,O
 initiating,O
 KALYDECO,O
 treatment,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -103823,7 +103823,7 @@ and,O
 Precautions,O
 5,O
 1,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -105202,7 +105202,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -107228,7 +107228,7 @@ outcomes,O
 and,O
 posterior reversible encephalopathy syndrome,AdverseReaction
 PRES,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -108158,7 +108158,7 @@ a,O
 sample,O
 collection,O
 box,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -108456,7 +108456,7 @@ additional,O
 monitoring,O
 5,O
 3,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -110408,7 +110408,7 @@ and,O
 Precautions,O
 5,O
 2,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -111205,7 +111205,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -111428,7 +111428,7 @@ heart failure,AdverseReaction
 2,O
 14,O
 4,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -111984,7 +111984,7 @@ Vascular,O
 Vasculitis,AdverseReaction
 including,O
 leukocytoclastic vasculitis,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -113401,7 +113401,7 @@ radiation,O
 while,O
 taking,O
 COCs,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -113510,7 +113510,7 @@ combination oral contraceptive,DrugClass
 COC,O
 use,O
 4,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -114003,7 +114003,7 @@ Infections,O
 and,O
 infestations,O
 Vulvovaginal candidiasis,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -114721,7 +114721,7 @@ any,O
 other,O
 antidiabetic,O
 drug,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -115788,7 +115788,7 @@ Precautions,O
 3,O
 5,O
 5,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -116015,7 +116015,7 @@ and,O
 Administration,O
 2,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -116239,7 +116239,7 @@ Injection site pain,AdverseReaction
 38,O
 3,O
 9,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -116524,7 +116524,7 @@ also,O
 have,O
 aspirin,O
 hypersensitivity,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -116662,7 +116662,7 @@ and,O
 Precautions,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -117146,7 +117146,7 @@ syncope,AdverseReaction
 and,O
 dizziness,AdverseReaction
 10,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -118409,7 +118409,7 @@ and,O
 TY21a,O
 typhoid,O
 vaccines,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -118714,7 +118714,7 @@ and,O
 death,O
 5,O
 6,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -121679,7 +121679,7 @@ hyperhidrosis,AdverseReaction
 Cardiac,O
 Disorders,O
 atrial fibrillation,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -122804,7 +122804,7 @@ immediately,O
 to,O
 healthcare,O
 providers,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -123530,7 +123530,7 @@ and,O
 facial,AdverseReaction
 and,O
 lip edema,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -124208,7 +124208,7 @@ Clinical,O
 Pharmacology,O
 12,O
 3,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -125164,7 +125164,7 @@ of,O
 treatment,O
 with,O
 OTEZLA,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -125414,7 +125414,7 @@ drug,O
 or,O
 surgical,O
 treatment,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -126252,7 +126252,7 @@ relationship,O
 to,O
 drug,O
 exposure,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -128238,7 +128238,7 @@ concerns,O
 require,O
 abrupt,O
 withdrawal,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -128632,7 +128632,7 @@ vision,O
 loss,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -129483,7 +129483,7 @@ aged,O
 years,O
 or,O
 older,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -130408,7 +130408,7 @@ Specific,O
 Populations,O
 8,O
 6,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -130822,7 +130822,7 @@ be,O
 anticoagulated,O
 5,O
 3,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -132682,7 +132682,7 @@ PRADAXA,O
 angioedema,AdverseReaction
 thrombocytopenia,AdverseReaction
 esophageal ulcer,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -134925,7 +134925,7 @@ PRISTIQ,O
 should,O
 be,O
 considered,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -135109,7 +135109,7 @@ pediatric,O
 patients,O
 8,O
 4,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -136755,7 +136755,7 @@ subcutaneous,O
 tissue,O
 disorders,O
 Stevens Johnson syndrome,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -138004,7 +138004,7 @@ patients,O
 for,O
 these,O
 consequences,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -140367,7 +140367,7 @@ products,O
 may,O
 be,O
 misleading,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -141153,7 +141153,7 @@ and,O
 symptoms,O
 of,O
 cataracts,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -141242,7 +141242,7 @@ of,O
 hepatic decompensation,AdverseReaction
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -142501,7 +142501,7 @@ Disorders,O
 Thrombotic microangiopathy,AdverseReaction
 with,O
 acute renal failure,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -142957,7 +142957,7 @@ to,O
 initiating,O
 Qutenza,O
 treatment,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -143439,7 +143439,7 @@ Subcutaneous,O
 Tissue,O
 Disorders,O
 Abnormal skin odor,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -148181,7 +148181,7 @@ and,O
 Precautions,O
 5,O
 7,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -148291,7 +148291,7 @@ psychosis,O
 1,O
 5,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -151993,7 +151993,7 @@ experienced,O
 oropharyngeal muscular dysfunction,AdverseReaction
 or,O
 hypoesthesia,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -154272,7 +154272,7 @@ and,O
 appropriate,O
 therapy,O
 instituted,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -154669,7 +154669,7 @@ and,O
 Precautions,O
 5,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -156007,7 +156007,7 @@ tissue,O
 disorders,O
 Skin exfoliation,AdverseReaction
 bullous skin reactions,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -156638,7 +156638,7 @@ adverse,O
 reactions,O
 is,O
 recommended,O
-,
+""
 BOXED,O
 WARNING,O
 WARNINGS,O
@@ -156840,7 +156840,7 @@ and,O
 Precautions,O
 5,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -157485,7 +157485,7 @@ the,O
 remaining,O
 subjects,O
 varied,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -158896,7 +158896,7 @@ HIV,O
 should,O
 be,O
 considered,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -160055,7 +160055,7 @@ Counseling,O
 Information,O
 17,O
 6,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -161618,7 +161618,7 @@ after,O
 initiation,O
 of,O
 treatment,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -161898,7 +161898,7 @@ be,O
 warranted,O
 5,O
 2,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -163471,7 +163471,7 @@ hypokalemia,AdverseReaction
 muscular weakness,AdverseReaction
 myopathy,AdverseReaction
 hypophosphatemia,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -166163,7 +166163,7 @@ Specific,O
 Populations,O
 8,O
 6,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -168219,7 +168219,7 @@ as,O
 a,O
 single,O
 agent,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -169045,7 +169045,7 @@ any,O
 other,O
 antidiabetic,O
 drug,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -169305,7 +169305,7 @@ tumors,O
 1,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -171233,7 +171233,7 @@ and,O
 Precautions,O
 5,O
 6,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -171989,7 +171989,7 @@ Clinical,O
 Pharmacology,O
 12,O
 3,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -172512,7 +172512,7 @@ placebo,O
 controlled,O
 clinical,O
 trials,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -173011,7 +173011,7 @@ of,O
 drug,O
 resistant,O
 bacteria,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -173639,7 +173639,7 @@ lymphatic,O
 system,O
 disorders,O
 Agranulocytosis,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -174121,7 +174121,7 @@ after,O
 initiation,O
 of,O
 treatment,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -176085,7 +176085,7 @@ those,O
 observed,O
 in,O
 adults,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -176637,7 +176637,7 @@ at,O
 the,O
 neuromuscular,O
 junction,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -177491,7 +177491,7 @@ cannot,O
 be,O
 reliably,O
 determined,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -178331,7 +178331,7 @@ Specific,O
 Populations,O
 8,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -179986,7 +179986,7 @@ and,O
 Precautions,O
 5,O
 5,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -180820,7 +180820,7 @@ any,O
 other,O
 antidiabetic,O
 drug,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -181069,7 +181069,7 @@ tumors,O
 1,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -182649,7 +182649,7 @@ of,O
 up,O
 to,O
 3,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -183052,7 +183052,7 @@ hypersensitivity,O
 to,O
 milk,O
 proteins,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -183654,7 +183654,7 @@ itching,AdverseReaction
 have,O
 been,O
 reported,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -183881,7 +183881,7 @@ of,O
 reach,O
 of,O
 children,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -184187,7 +184187,7 @@ erythema,AdverseReaction
 rash,AdverseReaction
 and,O
 skin exfoliation,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -184710,7 +184710,7 @@ be,O
 used,O
 with,O
 caution,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -185672,7 +185672,7 @@ Disorders,O
 generalized rash,AdverseReaction
 Stevens Johnson Syndrome,AdverseReaction
 hypersensitivity skin reactions,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -187219,7 +187219,7 @@ and,O
 pregnancy,O
 testing,O
 requirements,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -188554,7 +188554,7 @@ exfoliative dermatitis,AdverseReaction
 Stevens Johnson syndrome,AdverseReaction
 toxic skin eruption,AdverseReaction
 toxicoderma,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -189157,7 +189157,7 @@ given,O
 appropriate,O
 clinical,O
 care,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -189410,7 +189410,7 @@ monitoring,O
 5,O
 2,O
 6,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -190075,7 +190075,7 @@ products,O
 may,O
 be,O
 misleading,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -190390,7 +190390,7 @@ and,O
 Administration,O
 2,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -190615,7 +190615,7 @@ Nausea,AdverseReaction
 Dizziness,AdverseReaction
 8,O
 1,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -190967,7 +190967,7 @@ the,O
 urine,O
 as,O
 indicated,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -192123,7 +192123,7 @@ products,O
 may,O
 be,O
 misleading,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -193160,7 +193160,7 @@ Populations,O
 1,O
 8,O
 3,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -194994,7 +194994,7 @@ confirmed,O
 by,O
 microbiology,O
 tests,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -196067,7 +196067,7 @@ been,O
 reported,O
 for,O
 albumin,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -196300,7 +196300,7 @@ these,O
 symptoms,O
 5,O
 1,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -197437,7 +197437,7 @@ dysarthria,AdverseReaction
 myalgia,AdverseReaction
 and,O
 hypersensitivity,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -198497,7 +198497,7 @@ for,O
 low,O
 dose,O
 aspirin,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -198784,7 +198784,7 @@ REMS,O
 Program,O
 5,O
 3,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -201018,7 +201018,7 @@ products,O
 may,O
 be,O
 misleading,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -201296,7 +201296,7 @@ a,O
 seizure,O
 during,O
 treatment,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -202755,7 +202755,7 @@ patients,O
 in,O
 each,O
 arm,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -204490,7 +204490,7 @@ and,O
 Administration,O
 2,O
 2,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -204748,7 +204748,7 @@ dose,O
 4,O
 5,O
 5,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -205570,7 +205570,7 @@ products,O
 may,O
 be,O
 misleading,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -206066,7 +206066,7 @@ of,O
 drug,O
 resistant,O
 bacteria,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -206807,7 +206807,7 @@ urticaria,AdverseReaction
 Vascular,O
 disorders,O
 venous thrombosis,AdverseReaction
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -207528,7 +207528,7 @@ Specific,O
 Populations,O
 8,O
 6,O
-,
+""
 BOXED,O
 WARNING,O
 WARNING,O
@@ -207829,7 +207829,7 @@ is,O
 suspected,O
 5,O
 4,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -208883,7 +208883,7 @@ platelets decreased,AdverseReaction
 3,O
 5,O
 3,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -210225,7 +210225,7 @@ Specific,O
 Populations,O
 8,O
 7,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -210880,7 +210880,7 @@ total,AdverseReaction
 increased,AdverseReaction
 15,O
 1,O
-,
+""
 5,O
 WARNINGS,O
 AND,O
@@ -211646,7 +211646,7 @@ to,O
 ULN,O
 is,O
 unknown,O
-,
+""
 6,O
 ADVERSE,O
 REACTIONS,O
@@ -213034,4 +213034,4 @@ Disorders,O
 myopathy,AdverseReaction
 including,O
 rhabdomyolysis,AdverseReaction
-,
+""
