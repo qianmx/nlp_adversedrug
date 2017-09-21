@@ -1,7 +1,13 @@
 # nlp_adversedrug
 Adverse Drug Reaction Extraction from Drug Labels
 
+## Summary of this repository
+1. Extract texts (and word labels if applicable) from the XML datasets
+2. Pre-process texts with common NLP methods
+3. 
+
 ### Updated Plans:
-1. Use ngram to train a baseline model, such as Naive Baysian Classifier or Logistic Regression
-2. Start with simple CNN (Jeremy's) or LSTM (Yannet's); be sure to train the word vector instead of using a pre-trained model
-3. Maybe downsampling or upsampling
+1. Calculate F1 score
+2. Fine-tune the model
+3. Add ngram to the model (i.e. we should also predict phrases as names)
+4. Make a submission of predictions on the test set
