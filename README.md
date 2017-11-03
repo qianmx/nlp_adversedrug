@@ -9,7 +9,7 @@ Adverse Drug Reaction Extraction from Drug Labels
 5. Tune parameters by validation outputs
 6. Predict the holdout validation dataset
 7. Calculate F1 score
-8. Make the first submission by combining two neighboring two words if applicable
+8. Make the first submission by combining two neighboring two words if applicable (Actually, this does not help with the results)
 
 ### Updated next steps:
 1. Add ngram to the model (i.e. we should also predict phrases as names)
